@@ -1,0 +1,22 @@
+/* Estilizando parágrafos destacados */
+.destaque {
+    color: red; /* Cor do texto vermelho */
+    font-weight: bold; /* Texto em negrito */
+}
+
+/* Estilizando parágrafos dentro de uma div */
+div p {
+    font-style: italic; /* Texto em itálico */
+}
+
+/* Estilizando listas não ordenadas */
+ul {
+    background-color: #f0f0f0; /* Cor de fundo cinza claro */
+    padding: 10px; /* Espaçamento interno */
+}
+
+/* Estilizando listas ordenadas */
+ol {
+    background-color: #e0e0e0; /* Cor de fundo cinza médio */
+    padding: 10px; /* Espaçamento interno */
+}

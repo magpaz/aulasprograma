@@ -1,0 +1,28 @@
+/* Estilizando as listas não ordenadas (UL) */
+ul {
+    list-style-type: square; /* Tipo de marcador: quadrado */
+    color: #333; /* Cor do texto */
+    font-family: Arial, sans-serif; /* Tipo de fonte */
+}
+
+/* Estilizando as listas ordenadas (OL) */
+ol {
+    list-style-type: upper-roman; /* Tipo de marcador: números romanos em maiúsculas */
+    color: #007bff; /* Cor do texto em azul */
+    font-family: Arial, sans-serif; /* Tipo de fonte */
+}
+
+/* Estilizando as listas de definição (DL) */
+dl {
+    font-family: Arial, sans-serif; /* Tipo de fonte */
+}
+
+/* Estilizando os termos das listas de definição (DT) */
+dt {
+    font-weight: bold; /* Texto em negrito */
+}
+
+/* Estilizando as descrições das listas de definição (DD) */
+dd {
+    margin-left: 20px; /* Recuo à esquerda */
+}

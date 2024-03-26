@@ -1,0 +1,17 @@
+/* Definindo a fonte Butcherman importada do Google Fonts */
+body {
+    font-family: 'Butcherman', cursive;
+}
+
+/* Estilizando o parágrafo com id "p1" */
+#p1 {
+    font-size: 18px;
+    color: #333; /* Cor do texto */
+}
+
+/* Estilizando o parágrafo com id "p2" */
+#p2 {
+    font-size: 16px;
+    font-weight: bold; /* Texto em negrito */
+    color: #007bff; /* Cor do texto em azul */
+}

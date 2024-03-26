@@ -1,0 +1,24 @@
+/* Estilizando a borda simples */
+.borda1 {
+    border: 1px solid #ccc; /* Borda de 1 pixel sólida, cor cinza */
+    padding: 20px; /* Espaçamento interno */
+    margin-bottom: 20px; /* Espaçamento inferior */
+}
+
+/* Estilizando a borda arredondada */
+.borda2 {
+    border: 2px dashed #007bff; /* Borda de 2 pixels tracejada, cor azul */
+    border-radius: 10px; /* Borda arredondada com raio de 10 pixels */
+    padding: 20px; /* Espaçamento interno */
+    margin-bottom: 20px; /* Espaçamento inferior */
+}
+
+/* Estilizando a borda dupla */
+.borda3 {
+    border-width: 3px; /* Largura da borda */
+    border-style: double; /* Estilo da borda dupla */
+    border-color: #4CAF50; /* Cor da borda verde */
+    padding: 20px; /* Espaçamento interno */
+    margin-bottom: 20px; /* Espaçamento inferior */
+}
+

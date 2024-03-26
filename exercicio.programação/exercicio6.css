@@ -1,0 +1,13 @@
+/* Estilizando a sombra sutil */
+.sombra1 {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Sombra com deslocamento horizontal de 2px, deslocamento vertical de 2px, desfoque de 5px e cor rgba(0, 0, 0, 0.1) */
+    padding: 20px; /* Espaçamento interno */
+    margin-bottom: 20px; /* Espaçamento inferior */
+}
+
+/* Estilizando a sombra escura */
+.sombra2 {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra com deslocamento horizontal de 5px, deslocamento vertical de 5px, desfoque de 10px e cor rgba(0, 0, 0, 0.3) */
+    padding: 20px; /* Espaçamento interno */
+    margin-bottom: 20px; /* Espaçamento inferior */
+}
